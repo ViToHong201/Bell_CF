@@ -1,0 +1,78 @@
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Bell Coffe.dll.config
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Bell Coffe.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Bell Coffe.pdb
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csc.exe
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csc.exe.config
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csc.rsp
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csi.exe
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csi.exe.config
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\csi.rsp
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.AppContext.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Collections.Immutable.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Console.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Globalization.Calendars.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.IO.Compression.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.IO.FileSystem.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Net.Http.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Net.Sockets.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Reflection.Metadata.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.ValueTuple.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Xml.XPath.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\vbc.exe
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\vbc.exe.config
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\vbc.rsp
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\VBCSCompiler.exe
+D:\LamViec\Bell Coffe\Bell Coffe\bin\roslyn\VBCSCompiler.exe.config
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Antlr3.Runtime.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Microsoft.Web.Infrastructure.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Newtonsoft.Json.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Helpers.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Mvc.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Optimization.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Razor.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.Deployment.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.Razor.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\WebGrease.dll
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Helpers.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Mvc.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Optimization.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.Razor.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.Deployment.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\System.Web.WebPages.Razor.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Newtonsoft.Json.xml
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Antlr3.Runtime.pdb
+D:\LamViec\Bell Coffe\Bell Coffe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.csproj.CoreCompileInputs.cache
+D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.csproj.CopyComplete
+D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.dll
+D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.pdb
