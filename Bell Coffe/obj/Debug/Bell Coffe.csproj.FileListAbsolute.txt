@@ -76,3 +76,4 @@ D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.csproj.CoreCompileInputs.c
 D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.csproj.CopyComplete
 D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.dll
 D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.pdb
+D:\LamViec\Bell Coffe\Bell Coffe\obj\Debug\Bell Coffe.csproj.AssemblyReference.cache
